@@ -19,3 +19,6 @@ follow the command step by step
 3. npx create-vite@latest <folder_name> - Creates a new folder with <folder_name> that will have your react project you just have to select the right configuration for it
 
 4. git add <file_name>: It moves the changes to the staging area where we can put a label onto it 
+
+
+5. git commit -m "<your message goes here>" - it commits the chages into a group ans stores it locally to be pushed to the repositary
